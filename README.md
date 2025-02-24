@@ -3,7 +3,7 @@
 <p>App with challenge change background color random</p>
 
 <h1 align="center">
-<img alt="Preview function application" title="Preview function application" src="./assets/preview.gif" />
+<img alt="Preview function application" title="Preview function application" src="./assets/preview.gif" height="800px"/>
 </h1>
 
 ## Summary
