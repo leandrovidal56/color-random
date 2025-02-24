@@ -2,6 +2,10 @@
 
 <p>App with challenge change background color random</p>
 
+<h1 align="center">
+<img alt="Preview function application" title="Preview function application" src="./assets/preview.gif" height="600px"/>
+</h1>
+
 ## Summary
 
 <!--ts-->
